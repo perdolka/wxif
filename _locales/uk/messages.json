@@ -1,203 +1,203 @@
 {
   "extensionDescription": {
-    "message": "View the EXIF/IPTC/XMP data for images.",
+    "message": "Шукає та показує EXIF/IPTC/XMP-дані фотографій.",
     "description": "Description of the extension."
   },
 
   "contextMenuText": {
-    "message": "View EXIF data"
+    "message": "Перегляд EXIF-даних"
   },
 
   "Copy": {
-    "message": "Copy"
+    "message": "Копіювати"
   },
 
   "CameraMake": {
-    "message": "Camera Maker"
+    "message": "Виробник фотоапарата"
   },
 
   "CameraModel": {
-    "message": "Camera Model"
+    "message": "Модель фотоапарата"
   },
 
   "CameraLens": {
-    "message": "Lens"
+    "message": "Об'єктив"
   },
 
   "Software": {
-    "message": "Software"
+    "message": "Програмне Забезпечення"
   },
 
   "ImageDate": {
-    "message": "Image Date"
+    "message": "Дата зйомки"
   },
 
   "ImageOrientation": {
-    "message": "Orientation"
+    "message": "Орієнтація"
   },
 
   "ImageBW": {
-    "message": "Black and White"
+    "message": "Чорно-Біле"
   },
 
   "FlashUsed": {
-    "message": "Flash Fired"
+    "message": "Спалах спрацював"
   },
 
   "FocalLength": {
-    "message": "Focal Length"
+    "message": "Фокусна відстань"
   },
 
   "DigitalZoom": {
-    "message": "Digital Zoom"
+    "message": "Цифровий зум"
   },
 
   "CCDWidth": {
-    "message": "CCD Width"
+    "message": "Ширина матриці (CCD/ПЗЗ/ПЗС)"
   },
 
   "ExposureTime": {
-    "message": "Exposure Time"
+    "message": "Тривалість експозиції (витримка)"
   },
 
   "Aperture": {
-    "message": "Aperture"
+    "message": "Діафрагма"
   },
 
   "FocusDist": {
-    "message": "Focus Distance"
+    "message": "Фокусна (фокальна) відстань"
   },
 
   "ISOequivalent": {
-    "message": "ISO equivalent"
+    "message": "ISO-еквівалент"
   },
 
   "ExposureBias": {
-    "message": "Exposure Bias"
+    "message": "Експокорекція"
   },
 
   "WhiteBalance": {
-    "message": "White Balance"
+    "message": "Баланс білого"
   },
 
   "LightSource": {
-    "message": "Light Source"
+    "message": "Джерело світла"
   },
 
   "MeteringMode": {
-    "message": "Metering Mode"
+    "message": "Режим Експозаміру"
   },
 
   "ExposureProgram": {
-    "message": "Exposure"
+    "message": "Експозиція"
   },
 
   "ExposureMode": {
-    "message": "Exposure Mode"
+    "message": "Режим експозиції"
   },
 
   "ImageColorSpace": {
-    "message": "Color Space"
+    "message": "Колірний простір"
   },
 
   "GPSCoord": {
-    "message": "GPS Coordinate"
+    "message": "GPS-координати"
   },
 
   "MapLink": {
-    "message": "Map Link"
+    "message": "Посилання на карту"
   },
 
   "GPSAlt": {
-    "message": "GPS Altitude"
+    "message": "GPS-Висота"
   },
 
   "GPSImgDir": {
-    "message": "Viewing Direction"
+    "message": "Напрямок погляду"
   },
 
   "Creator": {
-    "message": "Creator"
+    "message": "Автор"
   },
 
   "City": {
-    "message": "City"
+    "message": "Місто"
   },
 
   "Sublocation": {
-    "message": "Sublocation"
+    "message": "Район"
   },
 
   "ProvinceState": {
-    "message": "Province/State"
+    "message": "Провінція/Штат"
   },
 
   "CountryName": {
-    "message": "Country"
+    "message": "Країна"
   },
 
   "Copyright": {
-    "message": "Copyright"
+    "message": "Авторське право"
   },
 
   "Title": {
-    "message": "Title"
+    "message": "Назва"
   },
 
   "Caption": {
-    "message": "Caption"
+    "message": "Заголовок"
   },
 
   "Comment": {
-    "message": "Comment"
+    "message": "Коментар"
   },
 
   "Instructions": {
-    "message": "Instructions"
+    "message": "Інструкції"
   },
 
   "NoData": {
-    "message": "No meta data found"
+    "message": "Не знайдено мета-даних"
   },
 
   "GPSFormat": {
-    "message": "Coordinates format to use"
+    "message": "Бажаний формат відображення координат"
   },
 
   "DD.label": {
-    "message": "Decimal degree"
+    "message": "Десяткові градуси"
   },
 
   "DM.label": {
-    "message": "Degree Minute"
+    "message": "Градуси, Мінути"
   },
 
   "DMS.label": {
-    "message": "Degree Minutes Second"
+    "message": "Градуси, Мінути, Секунди"
   },
 
   "windowtitle": {
-    "message": "FxIF Data for"
+    "message": "FxIF Дані для"
   },
 
   "orientation0": {
-    "message": "Undefined"
+    "message": "Невизначено"
   },
 
   "orientation1": {
-    "message": "Normal"
+    "message": "Нормальна"
   },
 
   "orientation2": {
-    "message": "Flip Horizontal"
+    "message": "Віддзеркалено горизонтально"
   },
 
   "orientation3": {
-    "message": "Rotate 180"
+    "message": "Оберт на 180"
   },
 
   "orientation4": {
-    "message": "Flip Vertical"
+    "message": "Віддзеркалено вертикально"
   },
 
   "orientation5": {
@@ -205,7 +205,7 @@
   },
 
   "orientation6": {
-    "message": "Rotate 90"
+    "message": "Оберт на 90"
   },
 
   "orientation7": {
@@ -213,7 +213,7 @@
   },
 
   "orientation8": {
-    "message": "Rotate 270"
+    "message": "Оберт на 270"
   },
 
   "infinite": {
@@ -221,91 +221,91 @@
   },
 
   "meters": {
-    "message": "m"
+    "message": "м"
   },
 
   "millimeters": {
-    "message": "mm"
+    "message": "мм"
   },
 
   "seconds": {
-    "message": "s"
+    "message": "с"
   },
 
   "ev": {
-    "message": "EV"
+    "message": "Експозиційне число (EV)"
   },
 
   "yes": {
-    "message": "Yes"
+    "message": "Так"
   },
 
   "no": {
-    "message": "No"
+    "message": "Ні"
   },
 
   "enforced": {
-    "message": "enforced"
+    "message": "Примусово"
   },
 
   "manual": {
-    "message": "Manual"
+    "message": "Ручний"
   },
 
   "auto": {
-    "message": "Auto"
+    "message": "Автоматичний"
   },
 
   "semiauto": {
-    "message": "semi-auto"
+    "message": "Напів-автоматичний"
   },
 
   "none": {
-    "message": "none"
+    "message": "Без ББ"
   },
 
   "daylight": {
-    "message": "Daylight"
+    "message": "Денне світло"
   },
 
   "fluorescent": {
-    "message": "Fluorescent"
+    "message": "Люмінесцентна лампа"
   },
 
   "incandescent": {
-    "message": "Incandescent"
+    "message": "Лампа розжарювання"
   },
 
   "flash": {
-    "message": "Flash"
+    "message": "Зі спалахом"
   },
 
   "fineweather": {
-    "message": "Fine Weather"
+    "message": "Ясна погода"
   },
 
   "cloudy": {
-    "message": "Cloudy"
+    "message": "Хмарно"
   },
 
   "shade": {
-    "message": "Shade"
+    "message": "Затінено"
   },
 
   "daylightfluorescent": {
-    "message": "Daylight Fluorescent"
+    "message": "Люмінесцентна лампа денного світла"
   },
 
   "daywhitefluorescent": {
-    "message": "Day White Fluorescent"
+    "message": "Люмінесцентна лампа денного білого світла"
   },
 
   "coolwhitefluorescent": {
-    "message": "Cool White Fluorescent"
+    "message": "Люмінесцентна лампа холодно-білого світла"
   },
 
   "whitefluorescent": {
-    "message": "White Fluorescent"
+    "message": "Люмінесцентна лампа білого світла"
   },
 
   "studiotungsten": {
@@ -313,7 +313,7 @@
   },
 
   "noflash": {
-    "message": "No Flash available"
+    "message": "Без спалаху"
   },
 
   "noreturnlight": {
@@ -325,51 +325,51 @@
   },
 
   "redeye": {
-    "message": "red eye reduction mode"
+    "message": "Режим зменшення ефекту червоних очей"
   },
 
   "average": {
-    "message": "Average"
+    "message": "Узагальнений"
   },
 
   "centerweight": {
-    "message": "Center Weight"
+    "message": "Центро-Зважений"
   },
 
   "spot": {
-    "message": "Spot"
+    "message": "Точковий"
   },
 
   "multispot": {
-    "message": "Multispot"
+    "message": "Багато-Точковий"
   },
 
   "matrix": {
-    "message": "Matrix"
+    "message": "Матричний (оцінний, багатозонний)"
   },
 
   "partial": {
-    "message": "Partial"
+    "message": "Частковий"
   },
 
   "autobracketing": {
-    "message": "Auto Bracketing"
+    "message": "Автоматичний брекетинг"
   },
 
   "35mmequiv": {
-    "message": "mm=35mm equivalent"
+    "message": "мм = еквівалент 35мм"
   },
 
   "program": {
-    "message": "program"
+    "message": "Програмний режим"
   },
 
   "apriority": {
-    "message": "aperture priority"
+    "message": "Пріоритет діафрагми"
   },
 
   "spriority": {
-    "message": "shutter priority"
+    "message": "Пріоритет витримки"
   },
 
   "creative": {
@@ -381,11 +381,11 @@
   },
 
   "portrait": {
-    "message": "Portrait Mode"
+    "message": "Портретний режим"
   },
 
   "landscape": {
-    "message": "Landscape Mode"
+    "message": "Ландшафтний режим"
   },
 
   "latlondms": {
@@ -401,11 +401,11 @@
   },
 
   "dirT": {
-    "message": "° (true north)"
+    "message": "° (істинна північ)"
   },
 
   "dirM": {
-    "message": "° (magnetic north)"
+    "message": "° (магнітна північ)"
   },
 
   "noTZ": {
@@ -413,46 +413,46 @@
   },
 
   "unknown": {
-    "message": "Unknown"
+    "message": "Невідомо"
   },
 
   "generalError": {
-    "message": "Error while interpreting the meta data. Meta data shown might be not complete. Please report this problem with an example image."
+    "message": "Помилка зчитування мета-даних. Показані мета-дані можуть бути не повними. Будь ласка, повідомте про цю проблему, за можливості - додайте проблемне зображення."
   },
 
   "specialError": {
-    "message": "Error while interpreting %S data. %S meta data shown might be not complete. Please report this problem with an example image."
+    "message": "Помилка зчитування %S мета-даних. %S Показані мета-дані можуть бути не повними. Будь ласка, повідомте про цю проблему, за можливості - додайте проблемне зображення."
   },
 
   "UserComment": {
-    "message": "User Comment"
+    "message": "Коментар користувача"
   },
 
   "ColorSpace": {
-    "message": "Color Space"
+    "message": "Колірний простір"
   },
 
   "FocalLengthText": {
-    "message": "Focal Length"
+    "message": "Фокусна відстань"
   },
 
   "ApertureFNumber": {
-    "message": "Aperture"
+    "message": "Діафрагма"
   },
 
   "FocalLength35mmEquiv": {
-    "message": "Focal Length (35mm)"
+    "message": "Фокусна відстань (35 мм)"
   },
 
   "GPSLat": {
-    "message": "GPS Latitude"
+    "message": "GPS-широта"
   },
 
   "GPSLon": {
-    "message": "GPS Longittude"
+    "message": "GPS-довгота"
   },
 
   "noEXIFdata": {
-    "message": "No image metadata found"
+    "message": "Метадані зображення не знайдено"
   }
 }
