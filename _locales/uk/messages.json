@@ -289,7 +289,7 @@
   },
 
   "shade": {
-    "message": "Затінено"
+    "message": "Тінь"
   },
 
   "daylightfluorescent": {
@@ -309,7 +309,7 @@
   },
 
   "studiotungsten": {
-    "message": "ISO Studio Tungsten"
+    "message": "ISO для студійних ламп розжарювання"
   },
 
   "noflash": {
@@ -373,11 +373,11 @@
   },
 
   "creative": {
-    "message": "Creative Program (based towards depth of field)"
+    "message": "Творчий режим (пріоритет глибини різкості)"
   },
 
   "action": {
-    "message": "Action program (based towards fast shutter speed)"
+    "message": "Спортивний режим (пріоритет короткої витримки)"
   },
 
   "portrait": {
@@ -385,7 +385,7 @@
   },
 
   "landscape": {
-    "message": "Ландшафтний режим"
+    "message": "Пейзажний режим"
   },
 
   "latlondms": {
