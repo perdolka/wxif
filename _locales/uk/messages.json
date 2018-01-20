@@ -317,11 +317,11 @@
   },
 
   "noreturnlight": {
-    "message": "return light not detected"
+    "message": "Відбите світло не виявлено (автофокус з підсвічуванням)."
   },
 
   "returnlight": {
-    "message": "return light detected"
+    "message": "Відбите світло виявлено (автофокус з підсвічуванням)."
   },
 
   "redeye": {
@@ -389,15 +389,15 @@
   },
 
   "latlondms": {
-    "message": " (deg, min, sec)"
+    "message": " (град., мін., сек.)"
   },
 
   "latlondm": {
-    "message": " (deg, min)"
+    "message": " (град., мін.)"
   },
 
   "latlondd": {
-    "message": " (deg )"
+    "message": " (град.)"
   },
 
   "dirT": {
